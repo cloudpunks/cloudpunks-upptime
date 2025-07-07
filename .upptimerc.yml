@@ -13,6 +13,8 @@ sites:
   - name: cloudpunks - marketplace
     url: https://marketplace.cloudpunks.de/   
     __dangerous__disable_verify_peer: true
+  - name: cloudpunks - k8s lab
+    url: https://rancher.cloudpunks.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -1,7 +1,7 @@
 url: https://rancher.cloudpunks.io
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-15T07:00:46.492Z
+status: up
+code: 200
+responseTime: 690
+lastUpdated: 2025-07-15T12:28:55.548Z
 startTime: 2025-07-07T14:50:43.067Z
 generator: Upptime <https://github.com/upptime/upptime>

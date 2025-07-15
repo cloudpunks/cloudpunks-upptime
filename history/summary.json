@@ -22,9 +22,9 @@
     "url": "https://auth.cloudpunks.io/auth/realms/core",
     "icon": "https://icons.duckduckgo.com/ip3/auth.cloudpunks.io.ico",
     "slug": "cloudpunks-auth-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 661,
     "timeMonth": 654,
     "timeYear": 654,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   },
   {
     "name": "cloudpunks - git service",
@@ -76,7 +78,7 @@
     "url": "https://rancher.cloudpunks.io",
     "icon": "https://icons.duckduckgo.com/ip3/rancher.cloudpunks.io.ico",
     "slug": "cloudpunks-k8s-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +89,8 @@
     "timeWeek": 635,
     "timeMonth": 659,
     "timeYear": 659,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-15": 0
+    }
   }
 ]

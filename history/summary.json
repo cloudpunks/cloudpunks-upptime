@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudpunks.de.ico",
     "slug": "cloudpunks-website",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "96.53%",
     "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 1284,
-    "timeDay": 1297,
-    "timeWeek": 1137,
-    "timeMonth": 1284,
-    "timeYear": 1284,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1304,
+    "timeDay": 1573,
+    "timeWeek": 1210,
+    "timeMonth": 1304,
+    "timeYear": 1304,
     "dailyMinutesDown": {
       "2025-07-29": 50,
       "2025-07-16": 16
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.98%",
-    "time": 636,
-    "timeDay": 600,
-    "timeWeek": 620,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "time": 638,
+    "timeDay": 689,
+    "timeWeek": 630,
+    "timeMonth": 638,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2025-07-15": 328
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 758,
+    "time": 756,
+    "timeDay": 853,
     "timeWeek": 745,
-    "timeMonth": 752,
-    "timeYear": 752,
+    "timeMonth": 756,
+    "timeYear": 756,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +69,11 @@
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
-    "time": 904,
-    "timeDay": 813,
-    "timeWeek": 885,
-    "timeMonth": 904,
-    "timeYear": 904,
+    "time": 920,
+    "timeDay": 1045,
+    "timeWeek": 946,
+    "timeMonth": 920,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2025-07-29": 65
     }
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.98%",
-    "time": 636,
-    "timeDay": 586,
-    "timeWeek": 657,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "time": 641,
+    "timeDay": 743,
+    "timeWeek": 648,
+    "timeMonth": 641,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2025-07-15": 328
     }

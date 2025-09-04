@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.cloudpunks.io.ico",
     "slug": "cloudpunks-auth-service",
     "status": "up",
-    "uptime": "95.62%",
+    "uptime": "95.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.33%",
-    "uptimeYear": "95.62%",
+    "uptimeYear": "95.65%",
     "time": 702,
     "timeDay": 684,
     "timeWeek": 670,
@@ -50,9 +50,9 @@
     "url": "https://git.cloudpunks.io",
     "icon": "https://icons.duckduckgo.com/ip3/git.cloudpunks.io.ico",
     "slug": "cloudpunks-git-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,7 +61,9 @@
     "timeWeek": 799,
     "timeMonth": 768,
     "timeYear": 762,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-04": 0
+    }
   },
   {
     "name": "cloudpunks - marketplace",

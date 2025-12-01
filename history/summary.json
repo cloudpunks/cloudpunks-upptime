@@ -94,19 +94,19 @@
     "url": "https://rancher.cloudpunks.io",
     "icon": "https://icons.duckduckgo.com/ip3/rancher.cloudpunks.io.ico",
     "slug": "cloudpunks-rancher",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 777,
-    "timeDay": 777,
-    "timeWeek": 777,
-    "timeMonth": 777,
-    "timeYear": 777,
+    "status": "up",
+    "uptime": "98.07%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.07%",
+    "uptimeYear": "98.07%",
+    "time": 782,
+    "timeDay": 782,
+    "timeWeek": 782,
+    "timeMonth": 782,
+    "timeYear": 782,
     "dailyMinutesDown": {
-      "2025-12-01": 0
+      "2025-12-01": 13
     }
   }
 ]

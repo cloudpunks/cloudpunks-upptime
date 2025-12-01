@@ -1,33 +1,32 @@
-## Change these first
-owner: cloudpunks # Your GitHub organization or username, where this repository lives
-repo: cloudpunks-upptime # The name of this repository
+owner: cloudpunks
+repo: uptime
 # runner: "[self-hosted, linux]"
 
 sites:
   - name: cloudpunks - website
     url: https://www.cloudpunks.de
-  - name: cloudpunks - auth service
+  - name: cloudpunks - auth
     url: https://auth.cloudpunks.io/auth/realms/core
-  - name: cloudpunks - git service
+  - name: cloudpunks - git
     url: https://git.cloudpunks.io
   - name: cloudpunks - marketplace
-    url: https://marketplace.cloudpunks.de/   
+    url: https://marketplace.cloudpunks.de/
     __dangerous__disable_verify_peer: true
-  - name: cloudpunks - k8s lab
+  - name: cloudpunks - rancher
     url: https://rancher.cloudpunks.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /cloudpunks-upptime
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: cloudpunks upptime
+  name: cloudpunks uptime
   introTitle: "**cloudpunks status**"
-  introMessage: 
+  introMessage:
   navbar:
     - title: Status
-      href: /cloudpunks-upptime
+      href: /uptime
     - title: cloudpunks
       href: https://www.cloudpunks.de
 
